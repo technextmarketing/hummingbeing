@@ -1,0 +1,12 @@
+/* HummingBeing design tokens - from hummingbeing.com styles.css and the brand book */
+:root{
+  --hb-navy:#242E42; --hb-navy-deep:#1A2030; --hb-navy-light:#3A4A66;
+  --hb-gold:#F5A623; --hb-gold-dark:#C98000; --hb-gold-light:#FFB43A;
+  --hb-cream:#FAFAF8; --hb-gold-tint:#FDF3E1;
+  --hb-body:#3D4250; --hb-text-mid:#5F6472;
+  --hb-logo-gold:#FCB01D; --hb-logo-navy:#21366B; --hb-throat-red:#D61F26; --hb-wing-yellow:#FAED2E;
+  --hb-poster-navy:#2F3D65; --hb-link-blue:#2EA3F2;
+  --hb-ease-out:cubic-bezier(.23,1,.32,1); --hb-ease-in-out:cubic-bezier(.77,0,.175,1);
+  --hb-r-sm:6px; --hb-r-md:10px; --hb-r-lg:14px; --hb-r-pill:100px;
+  --hb-font-display:'Playfair Display',Georgia,serif; --hb-font-body:Lato,system-ui,sans-serif; --hb-font-poster:Jost,system-ui,sans-serif;
+}
